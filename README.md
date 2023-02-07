@@ -71,5 +71,3 @@ You can take a look at original website of <a href='http://www.koeri.boun.edu.tr
 <div align="center">
 	<a href='https://ahbap.org/disasters-turkey'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ahbap-Logo.svg/1200px-Ahbap-Logo.svg.png" width=400 height=250 alt="https://ahbap.org/disasters-turkey"></a>
 </div>
-
-<br>
