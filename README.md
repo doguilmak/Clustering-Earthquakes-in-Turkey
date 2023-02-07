@@ -66,19 +66,10 @@ You can take a look at original website of <a href='http://www.koeri.boun.edu.tr
 
 <br>
 
-<h1 align=center><font size = 5>Donate For Disasters</font></h1>
+<h1 align=center><font size = 4>Donate For Disasters</font></h1>
 
 <div align="center">
-	<a href='https://ahbap.org/disasters-turkey'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ahbap-Logo.svg/1200px-Ahbap-Logo.svg.png" width=500 height=300 alt="https://ahbap.org/disasters-turkey"></a>
+	<a href='https://ahbap.org/disasters-turkey'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ahbap-Logo.svg/1200px-Ahbap-Logo.svg.png" width=400 height=250 alt="https://ahbap.org/disasters-turkey"></a>
 </div>
 
 <br>
-
-<h2>Contact Me</h2>
-
-<p>If you have something to say to me please contact me:</p> 
-
-<ul>
-	<li>Twitter: <a  href="https://twitter.com/Doguilmak">Doguilmak</a></li>
-	<li>Mail address: doguilmak@gmail.com</li>
-</ul>
