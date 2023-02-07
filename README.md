@@ -8,6 +8,18 @@
 
 <br>
 
+<h2>Keywords</h2>
+<ul>
+  <li>Geology</li>
+  <li>Earth Science</li>
+  <li>Earthquake</li>
+  <li>Turkey</li>
+  <li>BeautifulSoup</li>
+  <li>DBSCAN</li>
+</ul>
+
+<br>
+
 <h2>Definition of Earthquake</h2>
 
 <p>An earthquake is the shaking of the surface of the Earth resulting from a sudden release of energy in the Earth's <i>lithosphere</i> that creates <i>seismic waves</i>. People can scale <i>seismic waves</i> as <i>The Richter scale</i>.</p>
@@ -45,18 +57,6 @@ You can take a look at original website of <a href='http://www.koeri.boun.edu.tr
 <h2>License</h2>
 
 <p>MIT License</p>
-
-<br>
-
-<h2>Keywords</h2>
-<ul>
-  <li>Geology</li>
-  <li>Earth Science</li>
-  <li>Earthquake</li>
-  <li>Turkey</li>
-  <li>BeautifulSoup</li>
-  <li>DBSCAN</li>
-</ul>
 
 <br>
 
