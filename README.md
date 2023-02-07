@@ -44,7 +44,7 @@ $$M_{L} = log_{10} A - log_{10} A_{0}(δ) = log_{10} [A/A_{0}(δ)]$$
 
 <h2>Kandilli Observatory and Earthquake Research Instıtute (KOERI)</h2>
 
-<p>Kandilli Observatory and Earthquake Research Instıtute (KOERI) determines the location and size of all <i>earthquakes</i> that occur in Turkey and disseminates this information immediately to national and international agencies, scientists, critical facilities, and the general public. <b>This project was created based on data obtained by the <a href='http://www.koeri.boun.edu.tr/scripts/lasteq.asp'>Kandilli Observatory and Earthquake Research Instıtute (KOERI).</a>.</b></p>
+<p>Kandilli Observatory and Earthquake Research Instıtute (KOERI) determines the location and size of all <i>earthquakes</i> that occur in Turkey and disseminates this information immediately to national and international agencies, scientists, critical facilities, and the general public. <b>This project was created based on data obtained by the <a href='http://www.koeri.boun.edu.tr/scripts/lasteq.asp'>Kandilli Observatory and Earthquake Research Instıtute (KOERI)</a>.</b></p>
 
 <br>
 
