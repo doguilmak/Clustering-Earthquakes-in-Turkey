@@ -46,8 +46,6 @@ $$M_{L} = log_{10} A - log_{10} A_{0}(δ) = log_{10} [A/A_{0}(δ)]$$
 
 <p>Kandilli Observatory and Earthquake Research Instıtute (KOERI) determines the location and size of all <i>earthquakes</i> that occur in Turkey and disseminates this information immediately to national and international agencies, scientists, critical facilities, and the general public. <b>This project was created based on data obtained by the Kandilli Observatory and Earthquake Research Institute (KOERI).</b></p>
 
-<br>
-
 <h3>Data Link</h3>
 
 You can take a look at original website of <a href='http://www.koeri.boun.edu.tr/scripts/lasteq.asp'>Kandilli Observatory and Earthquake Research Instıtute (KOERI).</a>
