@@ -14,7 +14,7 @@
 
 <br>
 
-<h2>Definition of The Richter Scale</h2>
+<h2>Definition of the Richter Scale</h2>
 
 <p>The Richter scale —also called the Richter magnitude scale, Richter's magnitude scale, and the <i>Gutenberg–Richter</i> scale—is a measure of the strength of earthquakes, developed by <i>Charles Francis Richter</i> and presented in his landmark <i>1935</i> paper, where he called it the "magnitude scale".This was later revised and renamed the local magnitude scale, denoted as $ML$ or $M_{L}$.</p>
 
