@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/doguilmak/Clustering-Earthquakes-in-Turkey/main/assets/boun_earthquake.jpg" width=1000 height=450 alt="https://github.com/doguilmak/Clustering-Earthquakes-in-Turkey">
+<img src="https://raw.githubusercontent.com/doguilmak/Clustering-Earthquakes-in-Turkey/main/assets/boun_earthquake.jpg" width=1000 height=500 alt="https://github.com/doguilmak/Clustering-Earthquakes-in-Turkey">
 
 <small>Picture Source: <a href="https://github.com/doguilmak/Clustering-Earthquakes-in-Turkey">Doğu İlmak Github</a>
 
