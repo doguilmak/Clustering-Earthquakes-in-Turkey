@@ -57,6 +57,8 @@ You can take a look at original website of <a href='http://www.koeri.boun.edu.tr
 <div align="center">
 	<a href='https://ahbap.org/disasters-turkey'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ahbap-Logo.svg/1200px-Ahbap-Logo.svg.png" width=400 height=250 alt="https://ahbap.org/disasters-turkey"></a>
 </div>
+
+<p>Turkey has recently been struck by a devastating earthquake with a magnitude of 7.8. The impact has been widespread and many communities have been severely affected. In this difficult time, we are reaching out to ask for your support. Any donation, no matter how small, will help us provide much-needed aid to those affected by the earthquake. Your generosity will help provide shelter, food, and medical supplies to those in need. If you would like to make a donation, at the buttom we shared IBAN information for contribution. Your contribution will make a real difference in the lives of those affected by this disaster. Thank you for your kindness and support.</p>
 	
 <br>
 
@@ -70,6 +72,7 @@ You can take a look at original website of <a href='http://www.koeri.boun.edu.tr
 <ul>
     <li><a href="https://en.wikipedia.org/wiki/Richter_magnitude_scale">Wikipedia</a></li>
     <li><a href="http://www.koeri.boun.edu.tr/scripts/lst6.asp">Kandilli Observatory and Earthquake Research Instıtute (KOERI)</a></li>
+    <li><a href="https://ahbap.org/disasters-turkey">Ahbap</a></li>
 </ul>
 
 <br>
