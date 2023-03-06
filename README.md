@@ -73,6 +73,15 @@ $$M_{L} = log_{10} A - log_{10} A_{0}(δ) = log_{10} [A/A_{0}(δ)]$$
 
 <br>
 
+<h2>Notebooks</h2>
+
+<ol>
+	<li><p>Fetch data from <a href='http://www.koeri.boun.edu.tr/scripts/lasteq.asp'>Kandilli Observatory and Earthquake Research Instıtute (KOERI)</a> and cluster last 500 <i>earthquakes</i> with <i>DBSCAN</i></a>. You can see notebook from <a  href="https://github.com/doguilmak/Clustering-Earthquakes-in-Turkey/blob/main/earthquake_boun.ipynb">here</a>.</p></li>
+	<li><p>Download data from <a href='http://www.koeri.boun.edu.tr/sismo/2/tr/'>Kandilli Observatory and Earthquake Research Instıtute (KOERI)</a> and cluster <i>earthquakes</i> happened in February with <i>DBSCAN</i></a>. You can see notebook from <a  href="https://github.com/doguilmak/Clustering-Earthquakes-in-Turkey/blob/main/earthquake_boun_month.ipynb">here</a>.</p></li>
+</ol>
+
+<br>
+
 <h2>Contact Me</h2>
 
 <p>If you have something to say to me please contact me:</p>
