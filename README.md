@@ -78,6 +78,7 @@ $$M_{L} = log_{10} A - log_{10} A_{0}(δ) = log_{10} [A/A_{0}(δ)]$$
 <ol>
 	<li><p>Fetch data from <a href='http://www.koeri.boun.edu.tr/scripts/lasteq.asp'>Kandilli Observatory and Earthquake Research Instıtute (KOERI)</a> and cluster last 500 <i>earthquakes</i> with <i>DBSCAN</i></a>. You can see notebook from <a  href="https://github.com/doguilmak/Clustering-Earthquakes-in-Turkey/blob/main/earthquake_boun.ipynb">here</a>.</p></li>
 	<li><p>Download data from <a href='http://www.koeri.boun.edu.tr/sismo/2/tr/'>Kandilli Observatory and Earthquake Research Instıtute (KOERI)</a> and cluster <i>earthquakes</i> happened in February with <i>DBSCAN</i></a>. You can see notebook from <a  href="https://github.com/doguilmak/Clustering-Earthquakes-in-Turkey/blob/main/earthquake_boun_month.ipynb">here</a>.</p></li>
+	<li><p>Download data from <a href='https://deprem.afad.gov.tr/event-catalog'>AFAD Event Catalog</a> and cluster <i>earthquakes</i> happened from 6th Februray to 27th April with <i>DBSCAN</i></a>. In addition, statistical inferences made on magnitude. You can see notebook from <a  href="https://github.com/doguilmak/Clustering-Earthquakes-in-Turkey/blob/main/earthquake_afad.ipynb">here</a>.</p></li>
 </ol>
 
 <br>
